@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(/css/fonts/Montserrat/Montserrat-VariableFont_wght.woff);
+  src: url(/fonts/Montserrat/Montserrat-VariableFont_wght.woff2);
+  /* font-family: CherrySwash;
+  src: url(/fonts/Cherry-swash/CherrySwash-Bold.woff);
+  src: url(/fonts/Cherry-swash/CherrySwash-Bold.woff2);
+  font-family: Roboto;
+  src: url(/css/fonts/Roboto/Roboto-Bold.woff);
+  src: url(/css/fonts/Roboto/Roboto-Bold.woff2);
+  src: url(/css/fonts/Roboto/Roboto-Regular.woff);
+  src: url(/css/fonts/Roboto/Roboto-Regular.woff2);
+  font-family: Roboto-Slab;
+  src: url(/css/fonts/Roboto-Slab/RobotoSlab-Bold.woff);
+  src: url(/css/fonts/Roboto-Slab/RobotoSlab-Bold.woff2); */
+}
